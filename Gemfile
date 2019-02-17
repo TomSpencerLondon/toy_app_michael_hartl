@@ -18,7 +18,7 @@ gem 'jbuilder',                '~> 2.7'
 gem 'strong_versions',         '~> 0.3.2'
 
 group :development, :test do
-  gem 'sqlite3', '~> 1.3'
+  gem 'sqlite3', '~> 1.3.6'
   gem 'byebug',  '~> 9.0', platform: :mri
 end
 
